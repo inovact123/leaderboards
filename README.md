@@ -6,8 +6,7 @@ Build a points system directed towards a leadership board on Inovact Social:
 
 ## Inovact
 
-Inovact Social is a social network that enables students and entrepreneurs to collaborate on projects and ideas in 2 steps with incentives to share and build proof of work on the platform.
-- You can check out Inovact Social here - https://play.google.com/store/apps/details?id=in.pranaydas.inovact
+[Inovact Social](https://play.google.com/store/apps/details?id=in.pranaydas.inovact) is a social network that enables students and entrepreneurs to collaborate on projects and ideas in 2 steps with incentives to share and build proof of work on the platform.
 
 ### Gamifying Inovact Social:
 
